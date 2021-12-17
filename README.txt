@@ -1,4 +1,5 @@
 My solution to our exam project in Python for the "Introduction to Programming in Python and R for Biosciences" course.
+It was graded "passed with distinction" (highest possible grade).
 
 The task is described in the "3FB221-final_hard.pdf" and consisted mainly of extracting mutation counts out of a sequence data file ("stu_30.dat").
 Only base Python without additional packages was allowed to use.
